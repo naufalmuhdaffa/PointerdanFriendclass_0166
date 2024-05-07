@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "contoh2", "contoh2\contoh2.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cnth3", "cnth3\cnth3.vcxproj", "{016C1275-07A2-4069-A6E9-F691066A370C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "contoh4", "contoh4\contoh4.vcxproj", "{EE0F3F46-4E9E-403D-94DE-A4964050A84A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{016C1275-07A2-4069-A6E9-F691066A370C}.Release|x64.Build.0 = Release|x64
 		{016C1275-07A2-4069-A6E9-F691066A370C}.Release|x86.ActiveCfg = Release|Win32
 		{016C1275-07A2-4069-A6E9-F691066A370C}.Release|x86.Build.0 = Release|Win32
+		{EE0F3F46-4E9E-403D-94DE-A4964050A84A}.Debug|x64.ActiveCfg = Debug|x64
+		{EE0F3F46-4E9E-403D-94DE-A4964050A84A}.Debug|x64.Build.0 = Debug|x64
+		{EE0F3F46-4E9E-403D-94DE-A4964050A84A}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE0F3F46-4E9E-403D-94DE-A4964050A84A}.Debug|x86.Build.0 = Debug|Win32
+		{EE0F3F46-4E9E-403D-94DE-A4964050A84A}.Release|x64.ActiveCfg = Release|x64
+		{EE0F3F46-4E9E-403D-94DE-A4964050A84A}.Release|x64.Build.0 = Release|x64
+		{EE0F3F46-4E9E-403D-94DE-A4964050A84A}.Release|x86.ActiveCfg = Release|Win32
+		{EE0F3F46-4E9E-403D-94DE-A4964050A84A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
