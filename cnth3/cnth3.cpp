@@ -5,6 +5,9 @@ class siswa;
 class orang {
 private:
     string nama;
+
+public:
+
 };
 
 int main()
