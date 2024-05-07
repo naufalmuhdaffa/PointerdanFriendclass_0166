@@ -9,7 +9,7 @@ public:
     }
 };
 
-int main()
-{
+int main(){
+    mahasiswa mhs{ 1 }; //object mahasiswa
     
 }
