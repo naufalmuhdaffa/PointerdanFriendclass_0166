@@ -17,8 +17,12 @@ private:
 
 public:
     void setId(int pId);
-    void displayAll(orang id);
+    void displayAll(orang& a);
 };
+
+void siswa::displayAll(orang& a) {
+    cout << id << endl << a.nama;
+}
 
 int main()
 {
